@@ -1,7 +1,6 @@
 #!/bin/bash
-
 cd ~/Repositories/LinuxScripts
-#installs
+#Installs
 ./installBasics.sh
 ./installWebNavigator.sh
 ./installDevLibraries.sh

@@ -1,12 +1,4 @@
 #!/bin/bash
-#Install visual studio code
-sudo snap install --classic code
-#Download and place vscode icon
-wget -O codeicon.png "https://icon-icons.com/downloadimage.php?id=130084&root=2107/PNG/512/&file=file_type_vscode_icon_130084.png"
-mkdir ~/.icons
-mv ./codeicon.png ~/.icons/codeicon.png
-#Install git-lfs
-sudo apt-get -y install git-lfs
 #Install .net core
 sudo snap install dotnet-sdk --classic
 #Install mono
