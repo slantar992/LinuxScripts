@@ -1,0 +1,8 @@
+
+Install flat remix:
+
+sudo add-apt-repository ppa:daniruiz/flat-remix
+sudo apt update
+sudo apt install flat-remix
+sudo apt install flat-remix-gnome
+sudo apt install flat-remix-gtk
