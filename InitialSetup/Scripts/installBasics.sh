@@ -5,6 +5,7 @@ sudo apt-get -y install tilix
 sudo apt-get -y install python3-nautilus
 sudo apt-get -y install git-lfs
 sudo apt-get -y install mmv
+sudo apt-get -y install wakeonlan
 #install remmina
 sudo apt-add-repository -y ppa:remmina-ppa-team/remmina-next
 sudo apt update
